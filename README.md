@@ -2,6 +2,8 @@
 Geographically mapping images onto a web-based map.
 
 ---
+![mobile](Example.png)
+---
 This repo contains the code from my dissertation project - "Digitally referencing images to a geographical location to aid memory recall"
 
 Technologies used: 
